@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ToggleDeath:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ToggleDeath_jar</output-path>
+    <root id="archive" name="ToggleDeath.jar">
+      <element id="module-output" name="ToggleDeath" />
+    </root>
+  </artifact>
+</component>

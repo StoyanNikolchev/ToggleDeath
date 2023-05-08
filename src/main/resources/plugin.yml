@@ -1,0 +1,8 @@
+name: ToggleDeath
+version: '${project.version}'
+main: me.nikolchev98.toggledeath.ToggleDeath
+api-version: 1.19
+commands:
+  dm:
+    description: Toggle death messages
+    usage: /dm
